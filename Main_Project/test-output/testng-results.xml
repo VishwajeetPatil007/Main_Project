@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71899" started-at="2022-03-24T04:29:46Z" finished-at="2022-03-24T04:30:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71899" started-at="2022-03-24T04:29:46Z" finished-at="2022-03-24T04:30:58Z">
+      <class name="main_test.truTimeTest">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:main_test.truTimeTest@48503868]" name="invokeBrowser" is-config="true" duration-ms="10660" started-at="2022-03-24T09:59:46Z" finished-at="2022-03-24T09:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="getUrl()[pri:0, instance:main_test.truTimeTest@48503868]" name="getUrl" duration-ms="58752" started-at="2022-03-24T09:59:57Z" finished-at="2022-03-24T10:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:main_test.truTimeTest@48503868]" name="flushReports" is-config="true" duration-ms="2446" started-at="2022-03-24T10:00:55Z" finished-at="2022-03-24T10:00:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- main_test.truTimeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
